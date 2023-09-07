@@ -1,5 +1,5 @@
 from nonebot import require
-from nonebot.plugin.on import on_command,on_message
+from 1nonebot.plugin.on import on_command,on_message
 from nonebot.permission import SUPERUSER
 from nonebot.typing import T_State
 from nonebot.adapters.onebot.v11 import (
